@@ -1,0 +1,14 @@
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\bin\Debug\net9.0\Lamdas.exe
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\bin\Debug\net9.0\Lamdas.deps.json
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\bin\Debug\net9.0\Lamdas.runtimeconfig.json
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\bin\Debug\net9.0\Lamdas.dll
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\bin\Debug\net9.0\Lamdas.pdb
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\Lamdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\Lamdas.AssemblyInfoInputs.cache
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\Lamdas.AssemblyInfo.cs
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\Lamdas.csproj.CoreCompileInputs.cache
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\Lamdas.dll
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\refint\Lamdas.dll
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\Lamdas.pdb
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\Lamdas.genruntimeconfig.cache
+C:\Users\Ryan James\Documents\GitHub\CSharpLearning\Lamdas\Lamdas\obj\Debug\net9.0\ref\Lamdas.dll
